@@ -4,7 +4,7 @@
 Información relativa al curso se puede encontrar en el classroom: [DLVis: Aprendizaje Profundo para Visión Artificial](https://classroom.google.com/u/0/w/NDU5Mzc4OTA5ODYw/t/all). 
 
 ### Trabajo final
-- [Informe](./trabajo_final/Informe.pdf): TODO
+- [Informe](./trabajo_final/Informe.pdf)
 - [Notebook](./trabajo_final/TrabajoFinal_Camilo.ipynb)
 - [Letra](./trabajo_final/Letra.pdf)
 
